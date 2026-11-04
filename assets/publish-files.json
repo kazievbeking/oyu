@@ -9,6 +9,7 @@
   "assets/catalog.js",
   "assets/editor-languages.js",
   "assets/github.js",
+  "assets/github-config.js",
   "assets/i18n-en.js",
   "assets/minimal.css",
   "assets/pages.css",
