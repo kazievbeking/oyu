@@ -1,0 +1,23 @@
+[
+  "index.html",
+  "section.html",
+  "ornament.html",
+  "admin.html",
+  ".nojekyll",
+  "assets/admin.css",
+  "assets/admin.js",
+  "assets/catalog.js",
+  "assets/editor-languages.js",
+  "assets/github.js",
+  "assets/i18n-en.js",
+  "assets/minimal.css",
+  "assets/pages.css",
+  "assets/static.js",
+  "assets/style.css",
+  "assets/templates.js",
+  "assets/sections/animals.svg",
+  "assets/sections/cosmos.svg",
+  "assets/sections/geometry.svg",
+  "assets/sections/plants.svg",
+  "assets/publish-files.json"
+]
