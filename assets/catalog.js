@@ -1,40 +1,44 @@
 window.OYU_CATALOG={
   "sections": [
     {
-      "description_kk": "Жануарлар мен құстардың бейнесінен туған өрнектер. Мүйіз бен қанат пішіндері шебердің қолында жаңа ырғаққа айналады.",
-      "name_kk": "Жануар тектес",
-      "description_ru": "Орнаменты, вдохновлённые животными и птицами. Формы рогов и крыльев превращаются в выразительный ритм.",
       "id": "animals",
+      "name_kk": "Жануар тектес",
       "name_ru": "Зооморфные",
+      "description_kk": "Жануарлар мен құстардың бейнесінен туған өрнектер. Мүйіз бен қанат пішіндері шебердің қолында жаңа ырғаққа айналады.",
+      "description_ru": "Орнаменты, вдохновлённые животными и птицами. Формы рогов и крыльев превращаются в выразительный ритм.",
       "name_en": "Animal motifs",
-      "description_en": "Ornaments inspired by animals and birds. The shapes of horns and wings become an expressive rhythm."
+      "description_en": "Ornaments inspired by animals and birds. The shapes of horns and wings become an expressive rhythm.",
+      "image": ""
     },
     {
-      "description_kk": "Гүлдер, жапырақтар мен сабақтардан шабыт алған оюлар. Табиғаттың сұлулығы мен жаңаруын бейнелейді.",
-      "name_kk": "Өсімдік тектес",
-      "description_ru": "Мотивы цветов, листьев и стеблей, передающие красоту природы и её обновление.",
       "id": "plants",
+      "name_kk": "Өсімдік тектес",
       "name_ru": "Растительные",
+      "description_kk": "Гүлдер, жапырақтар мен сабақтардан шабыт алған оюлар. Табиғаттың сұлулығы мен жаңаруын бейнелейді.",
+      "description_ru": "Мотивы цветов, листьев и стеблей, передающие красоту природы и её обновление.",
       "name_en": "Plant motifs",
-      "description_en": "Patterns inspired by flowers, leaves and stems, expressing the beauty and renewal of nature."
+      "description_en": "Patterns inspired by flowers, leaves and stems, expressing the beauty and renewal of nature.",
+      "image": ""
     },
     {
-      "description_kk": "Сызықтар мен пішіндердің үйлесімінен құралған өрнектер. Қайталану мен симметрия тұтас композиция жасайды.",
-      "name_kk": "Геометриялық",
-      "description_ru": "Орнаменты из линий и геометрических форм. Повторение и симметрия создают цельную композицию.",
       "id": "geometry",
+      "name_kk": "Геометриялық",
       "name_ru": "Геометрические",
+      "description_kk": "Сызықтар мен пішіндердің үйлесімінен құралған өрнектер. Қайталану мен симметрия тұтас композиция жасайды.",
+      "description_ru": "Орнаменты из линий и геометрических форм. Повторение и симметрия создают цельную композицию.",
       "name_en": "Geometric motifs",
-      "description_en": "Ornaments made from lines and geometric shapes. Repetition and symmetry form a harmonious composition."
+      "description_en": "Ornaments made from lines and geometric shapes. Repetition and symmetry form a harmonious composition.",
+      "image": ""
     },
     {
-      "description_kk": "Күн, ай және аспан әлемімен байланысты өрнектер. Адамның әлемді тануы сәндік бейнелерде көрініс табады.",
-      "name_kk": "Ғарыштық",
-      "description_ru": "Мотивы, связанные с солнцем, луной и небесным миром. Представления человека о мире находят отражение в декоративных образах.",
       "id": "cosmos",
+      "name_kk": "Ғарыштық",
       "name_ru": "Космогонические",
+      "description_kk": "Күн, ай және аспан әлемімен байланысты өрнектер. Адамның әлемді тануы сәндік бейнелерде көрініс табады.",
+      "description_ru": "Мотивы, связанные с солнцем, луной и небесным миром. Представления человека о мире находят отражение в декоративных образах.",
       "name_en": "Cosmic motifs",
-      "description_en": "Patterns associated with the sun, moon and sky, reflecting people’s understanding of the world."
+      "description_en": "Patterns associated with the sun, moon and sky, reflecting people’s understanding of the world.",
+      "image": ""
     }
   ],
   "items": []
